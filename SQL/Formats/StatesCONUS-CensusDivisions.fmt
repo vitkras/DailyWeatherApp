@@ -1,0 +1,6 @@
+13.0
+4
+1   SQLCHAR   0   2   "|"    1   StateAbbreviation        SQL_Latin1_General_CP1_CI_AS
+2   SQLCHAR   0   20  "|"    2   StateName                SQL_Latin1_General_CP1_CI_AS
+3   SQLCHAR   0   1   "|"    3   CensusDivisionId         ""
+4   SQLCHAR   0   20  "\n"   4   CensusDivisionName       SQL_Latin1_General_CP1_CI_AS
